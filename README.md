@@ -1,7 +1,8 @@
 ### Prazer! Me chamo José Ricardo
 
+- 👋 Just started learning.
 - 👀 I’m interested in programming, always wanting to learn more.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Javascript.
 
 ##
 
