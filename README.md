@@ -1,8 +1,9 @@
 ### Prazer! Me chamo José Ricardo
 
-- 👋 Just started learning.
-- 👀 I’m interested in programming, always wanting to learn more.
-- 🌱 I’m currently learning Python and Javascript.
+- 👋 Aprendendo a ser um desenvolvedor!
+- 👀 Sou bastante curioso e ligado nas novidades.
+- 🌱 Atualmente estou aprendendo Python e Javascript.
+- 🎮 Eu crio jogos e pequenas aplicações.
 
 ##
 
@@ -13,18 +14,21 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/rickzin-o" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickzin-o&show_icons=true&theme=vue-dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzin-o&hide_progress=true&theme=vue-dark&langs_count=10&hide=glsl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickzin-o&show_icons=true&theme=github_dark&locale=pt-br" style="height:200px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzin-o&layout=compact&theme=github_dark&langs_count=10&hide=glsl&locale=pt-br" style="height:200px;">
   </a>
 </div>
   
 ##
 
 <div>
-  <a href="https://twitter.com/Rickzin_o" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="https://br.linkedin.com/in/jos%C3%A9-ricardo-santos-50063b327">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank" style="height:30px;">
   </a>
   <a href="https://rickzin-o.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank" style="height:30px;">
+  </a>
+  <a href="https://twitter.com/Rickzin_o" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" style="height:30px;">
   </a>
 </div>
