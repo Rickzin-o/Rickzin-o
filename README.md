@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <a href="https://github.com/rickzin-o" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickzin-o&show_icons=true&theme=github_dark&locale=pt-br" style="height:200px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzin-o&layout=compact&theme=github_dark&langs_count=10&hide=glsl&locale=pt-br" style="height:200px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzin-o&layout=compact&theme=github_dark&langs_count=10&hide=glsl,gdscript&locale=pt-br" style="height:200px;">
   </a>
 </div>
   
